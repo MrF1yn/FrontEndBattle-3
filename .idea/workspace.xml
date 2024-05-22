@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9af6ef32-a5e0-4d87-9363-70e3c6ce593f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="NavBar" />
+        <option value="SideBar" />
+        <option value="NewsItem" />
+        <option value="CompanyItem" />
+        <option value="FeedItem" />
+        <option value="CompanyItemSlider" />
+        <option value="ProfileInfoItem.svelte" />
+        <option value="PostItem" />
+        <option value="ExperienceSingleItem" />
+        <option value="Skill" />
+        <option value="EmployeeItem" />
+        <option value="ChatItem" />
+        <option value="+page" />
+        <option value="CompanyJobItem" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2gk84ydl3w8rAPrygnlZnd0tyNs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/KIIT0001/WebStormProjects/frontendbattle-3/src/routes/profile",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "ts.external.directory.path": "C:\\Users\\KIIT0001\\WebStormProjects\\frontendbattle-3\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KIIT0001\WebStormProjects\frontendbattle-3\src\routes\profile" />
+      <recent name="C:\Users\KIIT0001\WebStormProjects\frontendbattle-3\src\routes\message" />
+      <recent name="C:\Users\KIIT0001\WebStormProjects\frontendbattle-3\src\routes" />
+      <recent name="C:\Users\KIIT0001\WebStormProjects\frontendbattle-3\src\lib" />
+      <recent name="C:\Users\KIIT0001\WebStormProjects\frontendbattle-3\src\routes\connections" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KIIT0001\WebStormProjects\frontendbattle-3\src\lib" />
+      <recent name="C:\Users\KIIT0001\WebStormProjects\frontendbattle-3\static" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9af6ef32-a5e0-4d87-9363-70e3c6ce593f" name="Changes" comment="" />
+      <created>1716230030260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716230030260</updated>
+      <workItem from="1716230032345" duration="15624000" />
+      <workItem from="1716280892660" duration="66766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

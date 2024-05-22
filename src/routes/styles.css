@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: RoobertBold;
+    src: url("../fonts/RoobertBold.ttf");
+}
+
+@font-face {
+    font-family: RoobertRegular;
+    src: url("../fonts/RoobertRegular.ttf");
+}
+
+@font-face {
+    font-family: RoobertLight;
+    src: url("../fonts/RoobertLight.ttf");
+}
+
