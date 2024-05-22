@@ -19,7 +19,7 @@
         <span>{title}</span>
         <Icon name="shield-check" class="text-md"/>
 <!--        <Icon name="pencil" class="text-md"/>-->
-        <Button class="bg-primary-background border-0 flex items-center h-full text-2xl p-1 px-2 ml-auto {company?'hidden':''}">
+        <Button class="bg-primary-background hover:bg-primary-background-3  border-0 flex items-center h-full text-2xl p-1 px-2 ml-auto {company?'hidden':''}">
             <Icon name="pencil" class="text-primary-foreground"/>
         </Button>
     </div>

@@ -19,7 +19,7 @@
         <a href="/connections" class="hidden md:block {$page.url.pathname==='/connections'?'text-primary-accent-1':'text-primary-foreground'}">Connections</a>
         <a href="/" class="hidden md:block {$page.url.pathname==='/'?'text-primary-accent-1':'text-primary-foreground'}">Browse</a>
         <Dropdown theme="dark" autoClose={true}>
-            <DropdownToggle class="bg-primary-background-1 border-0 text-center">
+            <DropdownToggle class="bg-primary-background-1 hover:bg-primary-background-3 border-0 text-center">
                 <Icon name="three-dots-vertical" class="text-primary-foreground"/>
             </DropdownToggle>
             <DropdownMenu class="opacity-100 z-[10000] absolute" >
@@ -46,16 +46,16 @@
         </Button>
     </div>
     <div class="flex w-full h-full items-center justify-end gap-2">
-        <Button on:click={()=>{goto('/notifications')}} class="bg-primary-background-1 border-0 text-center">
+        <Button on:click={()=>{goto('/notifications')}} class="bg-primary-background-1 hover:bg-primary-background-3  border-0 text-center">
             <Icon name="bell" class="text-primary-foreground scale-[1]"/>
         </Button>
-        <Button on:click={()=>{goto('/message')}} class="bg-primary-background-1 border-0 text-center">
+        <Button on:click={()=>{goto('/message')}} class="bg-primary-background-1 hover:bg-primary-background-3 border-0 text-center">
             <Icon name="chat-left" class="text-primary-foreground scale-[1]"/>
         </Button>
-        <Button on:click={()=>{goto('/jobs')}} class="bg-primary-background-1 border-0 text-center">
+        <Button on:click={()=>{goto('/jobs')}} class="bg-primary-background-1 hover:bg-primary-background-3  border-0 text-center">
             <Icon name="briefcase" class="text-primary-foreground scale-[1]"/>
         </Button>
-        <Button class="bg-primary-background-1 border-0 text-center">
+        <Button class="bg-primary-background-1 hover:bg-primary-background-3 border-0 text-center">
             <Icon name="lightning-charge" class="text-primary-foreground scale-[1]"/>
             <span class="hidden lg:inline-block">Try Premium</span>
         </Button>

@@ -24,7 +24,7 @@ export let url: string | never = googleLogo;
                 {notification}
             </span>
         </span>
-    <Button class="{showFollow?'':'hidden'} bg-primary-background-1 border-0 text-center flex items-center w-full md:w-auto  gap-2 h-full">
+    <Button class="{showFollow?'':'hidden'} bg-primary-background-1 hover:bg-primary-background-3  border-0 text-center flex items-center w-full md:w-auto  gap-2 h-full">
         <Icon name="plus-square" class="text-primary-foreground"/>
         Follow
     </Button>

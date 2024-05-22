@@ -25,11 +25,11 @@
             {followers} Followers
         </span>
         <span class="w-full mt-auto mb-auto flex flex-col gap-2 sm:flex-row">
-            <Button class="bg-primary-background-1 border-0 text-center flex items-center gap-2">
+            <Button class="bg-primary-background-1 hover:bg-primary-background-3 border-0 text-center flex items-center gap-2">
                 <Icon name="plus-square" class="text-primary-foreground"/>
                 Follow
             </Button>
-            <Button class="bg-primary-background-1 border-0 text-center flex items-center gap-2">
+            <Button class="bg-primary-background-1 hover:bg-primary-background-3 border-0 text-center flex items-center gap-2">
 <!--                <Icon name="lightning-charge" class="text-primary-foreground"/>-->
                 View Page
             </Button>

@@ -46,7 +46,7 @@
 <div class="h-[93vh] {width} bg-primary-background-1 flex flex-col flex-grow text-primary-foreground">
     <div class="flex items-center justify-center p-2 font-[RoobertBold] text-xl">
         <span class="{visible} mr-auto">For You</span>
-        <Button size="sm"  class="bg-primary-background-1 border-0 text-2xl" on:click = {toggle}>
+        <Button size="sm"  class="bg-primary-background-1 hover:bg-primary-background-3  border-0 text-2xl" on:click = {toggle}>
             <Icon name="arrow-bar-left" class="text-primary-foreground"/>
         </Button>
     </div>

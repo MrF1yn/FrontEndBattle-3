@@ -23,7 +23,7 @@
         </span>
     </div>
 
-    <Button class=" h-fit  bg-primary-background-1 border-0 text-center flex items-center gap-2 text-lg">
+    <Button class=" h-fit  bg-primary-background-1 hover:bg-primary-background-3  border-0 text-center flex items-center gap-2 text-lg">
         <Icon name="plus-square" class="text-primary-foreground"/>
         <span class="hidden sm:block">Follow</span>
     </Button>

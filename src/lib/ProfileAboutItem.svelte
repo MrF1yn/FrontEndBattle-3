@@ -15,7 +15,7 @@
         <span class="flex items-center gap-2 w-full h-fit font-[RoobertBold] text-2xl text-primary-foreground">
             <Icon name="gem"/>
             <span>Top Skills</span>
-            <Button class="bg-primary-background border-0 flex items-center h-full text-2xl p-1 px-2 ml-auto">
+            <Button class="bg-primary-background hover:bg-primary-background-3  border-0 flex items-center h-full text-2xl p-1 px-2 ml-auto">
                 <Icon name="arrow-right" class="text-primary-foreground"/>
             </Button>
         </span>

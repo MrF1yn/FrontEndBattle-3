@@ -12,7 +12,7 @@ import {Button, Icon} from "@sveltestrap/sveltestrap";
                 Web Developer | 1d ago
             </span>
         </span>
-        <Button class="bg-primary-background-1 border-0 text-center flex items-center w-full md:w-auto  gap-2 h-full">
+        <Button class="bg-primary-background-1 hover:bg-primary-background-3  border-0 text-center flex items-center w-full md:w-auto  gap-2 h-full">
             <Icon name="plus-square" class="text-primary-foreground"/>
             Follow
         </Button>
@@ -31,25 +31,25 @@ import {Button, Icon} from "@sveltestrap/sveltestrap";
         #USCKIIT100DAYSOFCODE#dailylearning #Arrays #codingskill #techlearning #coding #programmingjourney #techskills #codelife #leetcode #codeforces #learningtogether #dailychallenge #strings #characterarrays #complexities #2DArrays #dataStructures<br>
     </div>
     <div class="w-full flex items-center justify-between h-[50px]">
-        <Button class="bg-primary-background border-0 text-center flex items-center gap-2 h-full text-xl">
+        <Button class="bg-primary-background hover:bg-primary-background-3  border-0 text-center flex items-center gap-2 h-full text-xl">
             <Icon name="hand-thumbs-up" class="text-primary-foreground "/>
             <span class="hidden lg:block">
                 Like
             </span>
         </Button>
-        <Button class="bg-primary-background border-0 text-center flex items-center gap-2 h-full text-xl">
+        <Button class="bg-primary-background hover:bg-primary-background-3  border-0 text-center flex items-center gap-2 h-full text-xl">
             <Icon name="chat-left-text" class="text-primary-foreground"/>
             <span class="hidden lg:block">
                 Comments
             </span>
         </Button>
-        <Button class="bg-primary-background border-0 text-center flex items-center gap-2 h-full text-xl">
+        <Button class="bg-primary-background hover:bg-primary-background-3  border-0 text-center flex items-center gap-2 h-full text-xl">
             <Icon name="arrow-repeat" class="text-primary-foreground"/>
             <span class="hidden lg:block">
                 Repost
             </span>
         </Button>
-        <Button class="bg-primary-background border-0 text-center flex items-center gap-2 h-full text-xl">
+        <Button class="bg-primary-background hover:bg-primary-background-3  border-0 text-center flex items-center gap-2 h-full text-xl">
             <Icon name="send" class="text-primary-foreground"/>
             <span class="hidden lg:block">
                 Send
